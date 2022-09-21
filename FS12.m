@@ -1,4 +1,4 @@
-% Script to make Figure S13.
+% Script to make Figure S12.
 clear;
 
 % Load the in the data structure.
