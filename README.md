@@ -6,8 +6,8 @@ References:
             
             R. Schultz, W.L. Ellsworth, & G.C. Beroza (2022)
             An ensemble approach to characterizing trailing induced seismicity.
-            submitted to Nature Geoscience, xx, x-x.
-            doi: xxx.
+            submitted to Nature Geoscience, 94(2A), 699–707.
+            doi: 10.1785/0220220352.
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
