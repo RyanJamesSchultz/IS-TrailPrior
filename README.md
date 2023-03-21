@@ -1,12 +1,12 @@
 # IS-TrailPrior
 
-We present the Matlab-based codes, IS-TrailPrior that reproduces the figures and analyses in a prior study [Schultz et al., 2022].
+We present the Matlab-based codes, IS-TrailPrior that reproduces the figures and analyses in a prior study [Schultz et al., 2023].
 
 References: 
             
             R. Schultz, W.L. Ellsworth, & G.C. Beroza (2022)
             An ensemble approach to characterizing trailing induced seismicity.
-            submitted to Nature Geoscience, 94(2A), 699–707.
+            Seismological Research Letters, 94(2A), 699–707.
             doi: 10.1785/0220220352.
 
 
